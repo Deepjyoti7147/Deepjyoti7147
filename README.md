@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Deepjyot Purkayastha<br>👀 I’m interested in Android Development and Web Development<br>🌱 I’m currently learning Data Structurs and algorithm<br>💞️ Currently I’m looking to collaborate for an Android Development project<br>📫 How to reach me : dpurkayatha2@gmail.com or DM me on instagram @deepjyoti7147
+👋 Hi, I’m @Deepjyot Purkayastha<br>👀 I’m interested in Android Development and Web Development<br>🌱 I’m currently learning Data Structurs and algorithm<br>💞️ Currently I’m looking to collaborate for an Android Development project<br>📫 How to reach me : dpurkayatha2@gmail.com or DM me on instagram @deepjyoti7147
 
 
 ## 🌐 Socials:
